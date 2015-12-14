@@ -54,7 +54,7 @@ for (int i=0; i<=max_y-1 ;i++)
     }
   cout << "\n";
   }
-  cout << "\n\nSterowanie:\nKlawisze kursorow - przesuwanie\nSpacja - obrot\nEnter - zawtierdza statek\n";
+  cout << "\n\nSterowanie:\nKlawisze kursorow - przesuwanie\nSpacja - obrot\nEnter - zatwierdza statek\n";
 }
 
 static void usunmin()
